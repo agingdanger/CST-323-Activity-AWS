@@ -7,10 +7,10 @@ error_reporting(E_ALL);
 
 class db_connector
 {
-    private $servername = "k2fqe1if4c7uowsh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-    private $username = "cuvideez29djcg88";
-    private $password = "dtl9gm7m0jmmggvm";
-    private $dbname = "xg8kwoisx7bi3ym0";
+    private $servername = "cst323activity.cstuux2uryah.us-east-2.rds.amazonaws.com";
+    private $username = "root";
+    private $password = "rootroot";
+    private $dbname = "cst323activity";
     
     /**
      * getConnection method connecting to the database.
